@@ -73,6 +73,9 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
     padding: 10px;
     margin: 50px;
 }
+.bullet-icon:hover {
+    color: #6610f2;
+}
 
 #location:hover {
     color: #6610f2;
